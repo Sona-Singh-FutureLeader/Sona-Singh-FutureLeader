@@ -1,7 +1,7 @@
 -  Hi, I’m @Sona-Singh-FutureLeader
 -  I’m interested in C++ mastery
 -  I’m currently learning C++ basics 
--  I’m looking to collaborate on games 
+-  I want to change this world in Tech .
 - How to reach me : show interest on my profile 
 - I am a 15 year old aspiring to be a MITer
 -  Fun fact: I do have extra skills of Blockchain and ML
