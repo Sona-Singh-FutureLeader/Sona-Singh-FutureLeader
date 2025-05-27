@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Sona-Singh-FutureLeader
-- 👀 I’m interested in C++ mastery
-- 🌱 I’m currently learning C++ basics 
-- 💞️ I’m looking to collaborate on games 
-- 📫 How to reach me : show interest on my profile 
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I do have extra skills of Blockchain and ML
+-  Hi, I’m @Sona-Singh-FutureLeader
+-  I’m interested in C++ mastery
+-  I’m currently learning C++ basics 
+-  I’m looking to collaborate on games 
+- How to reach me : show interest on my profile 
+- I am a 15 year old aspiring to be a MITer
+-  Fun fact: I do have extra skills of Blockchain and ML
 
 <!---
 Sona-Singh-FutureLeader/Sona-Singh-FutureLeader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
